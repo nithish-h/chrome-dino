@@ -39,23 +39,23 @@ let displayNetwork = true; // display neural network
 let visualizeClosestObstacle = false;
 
 function preload() {
-	groundImg = loadImage("./assets/ground.png");
-	dinoRun1Img = loadImage("./assets/dinorun1.png");
-	dinoRun2Img = loadImage("./assets/dinorun2.png");
-	dinoDuck1Img = loadImage("./assets/dinoduck1.png");
-	dinoDuck2Img = loadImage("./assets/dinoduck2.png");
+	groundImg = loadImage("ground.png");
+	dinoRun1Img = loadImage("dinorun1.png");
+	dinoRun2Img = loadImage("dinorun2.png");
+	dinoDuck1Img = loadImage("dinoduck1.png");
+	dinoDuck2Img = loadImage("dinoduck2.png");
 
-	largeTripleCactusImg = loadImage("./assets/cactuslargetriple.png");
-	largeDoubleCactusImg = loadImage("./assets/cactuslargedouble.png");
-	largeSingleCactusImg = loadImage("./assets/cactuslargesingle.png");
-	smallTripleCactusImg = loadImage("./assets/cactussmalltriple.png");
-	smallDoubleCactusImg = loadImage("./assets/cactussmalldouble.png");
-	smallSingleCactusImg = loadImage("./assets/cactussmallsingle.png");
+	largeTripleCactusImg = loadImage("cactuslargetriple.png");
+	largeDoubleCactusImg = loadImage("cactuslargedouble.png");
+	largeSingleCactusImg = loadImage("cactuslargesingle.png");
+	smallTripleCactusImg = loadImage("cactussmalltriple.png");
+	smallDoubleCactusImg = loadImage("cactussmalldouble.png");
+	smallSingleCactusImg = loadImage("cactussmallsingle.png");
 
-	birdImg1 = loadImage("./assets/bird1.png");
-	birdImg2 = loadImage("./assets/bird2.png");
+	birdImg1 = loadImage("bird1.png");
+	birdImg2 = loadImage("bird2.png");
 
-	font = loadFont("./assets/PublicPixel.ttf");
+	font = loadFont("PublicPixel.ttf");
 }
 
 function setup() {
