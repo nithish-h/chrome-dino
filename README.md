@@ -4,7 +4,7 @@ The offline Google chrome dino game with the NEAT (Neuroevolution of Augmenting 
 
 ## Live Demo
 
-[View Live Site Here]()
+[View Live Site Here]('https://nithish-h.github.io/chrome-dino/')
 
 If it appears zoomed in, just press `Ctrl -`, because default resolution is 2560x1440.
 
